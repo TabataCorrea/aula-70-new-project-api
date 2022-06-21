@@ -1,3 +1,13 @@
+<h1 align=center>👩‍💻Transforma Tec📚</h1>
+
+## Exercício de exemplo buscando dados através de uma API - referente ao módulo IV - React JS
+
+<h1 align=center>👨‍💻Colaborador</h1>
+
+## Agradeço ao meu mentor, por todo conhecimento compartilhado:
+- [Professor Cassiano](https://github.com/cassiano-dio)
+  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
