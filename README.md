@@ -2,6 +2,8 @@
 
 ## Exercício de exemplo buscando dados através de uma API - referente ao módulo IV - React JS
 
+![buscgit](https://user-images.githubusercontent.com/96606916/174692838-1d09fcc7-b241-4336-8690-c48040b36992.png)
+
 <h1 align=center>👨‍💻Colaborador</h1>
 
 ## Agradeço ao meu mentor, por todo conhecimento compartilhado:
